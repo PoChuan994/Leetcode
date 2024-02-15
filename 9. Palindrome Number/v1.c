@@ -31,3 +31,5 @@ bool isPalindrome(int x) {
         return true;
     }
 }
+// This code segment only passed 6 out of 11,511 test cases
+// Line 16: Char 13: runtime error: variable length array bound evaluates to non-positive value 0 [solution.c]
